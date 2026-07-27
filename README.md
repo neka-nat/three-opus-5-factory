@@ -1,5 +1,7 @@
 # 工場 3D — photo-faithful factory reconstruction
 
+https://github.com/user-attachments/assets/159e781b-08b0-4f37-b24f-7ea29099fb02
+
 A three.js reconstruction of the Japanese machine shop photographed in
 `img01.jpg`, built to match the photograph as closely as the medium allows —
 same hall geometry, same camera, same light, same equipment, same clutter.
